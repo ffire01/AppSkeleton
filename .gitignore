@@ -1,3 +1,10 @@
 *.xcuserstate
 project.xcworkspace/
 xcuserdata/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+*.xcscheme
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
